@@ -11,7 +11,7 @@
         <ul>
             <li>🇮🇹 Proudly born and bred in Rome, Italy</li>
             <li>🍝I love gnocchi</li>
-            <li>📝I am currently broadening my skills in web development</li>
+            <li>🌱 console.log("I am learning JavaScript");</li>
         </ul>
     </div>
     <p>🏹 My Computer Science Skills so far:
