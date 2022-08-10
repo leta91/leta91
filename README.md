@@ -19,8 +19,7 @@
         <a title="™/®WordPress, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Wordpress-Logo.svg"><img width="64" alt="Wordpress-Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wordpress-Logo.svg/64px-Wordpress-Logo.svg.png"></a>
         <a title="Colin Viebrock, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:PHP-logo.svg"><img width="128" alt="PHP-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/128px-PHP-logo.svg.png"></a>
     </p>
-<a href="https://www.freepik.com/vectors/overtime">Overtime vector created by pch.vector - www.freepik.com<img src="https://user-images.githubusercontent.com/109817389/181586041-e9b4b3cf-0c71-4ed7-8f6a-8b519271dfdc.jpg" alt="coder life" width="500px" height="500px" /></a>
-
+    <img src="https://user-images.githubusercontent.com/109817389/183838495-df25e646-50f8-4859-936c-260dcd2fdcbb.png" style: width="550" height="500" alt="coder life" />
   </body>
 
 </html>
