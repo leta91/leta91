@@ -3,7 +3,7 @@ as Cesare stated *"Veni vidi vici"* which translates in English to **"I came, I 
 - <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="20"> Proudly born and bred in Rome, Italy
 - 🍝 I love gnocchi
 - 🔓 85% of the freeCodeCamp JavaScript Certification Unlocked ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-- 🧚‍♀️ I love coding games 
+- 🧚‍♀️ I love playing coding games 
 - 🌱 Making new projects  
 - 📬 Contact me on LinkedIn [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letizia-di-maio-583811239/) <br>
 
