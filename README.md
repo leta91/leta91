@@ -5,7 +5,7 @@ as Cesare stated *"Veni vidi vici"* which translates in English to **"I came, I 
 - 🔓 85% of the freeCodeCamp JavaScript Certification Unlocked ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 - 🧚‍♀️ I love playing coding games 
 - 🌱 Making new projects  
-- 📬 Contact me on LinkedIn [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letizia-di-maio-583811239/) <br>
+- 📬 Contact me on LinkedIn [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letizia-di-maio/) <br>
 
 🦸‍♀️ My Tools so far: <br>
 
