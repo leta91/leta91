@@ -24,7 +24,7 @@ as Cesare stated *"Veni vidi vici"* which translates in English to **"I came, I 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leta91&layout=pie)](https://github.com/leta91/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leta91&layout=pie)]
 
       
 <!---
