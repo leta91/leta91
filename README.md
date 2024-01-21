@@ -3,10 +3,7 @@ as Cesare stated *"Veni vidi vici"* which translates in English to **"I came, I 
 - <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="20px" height="18px" alt="Italian flag" /> Proudly born and bred in Rome, Italy
 - 🍝 I love gnocchi
 - 🧚‍♀️ I love playing coding games
-- 📈 at Step 49 of the 2023 JavaScript Algorithms and Data Structures Certification (β) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- 🔓 24% of the freeCodeCamp Front End Development Libraries Certification Unlocked ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-- 🚀 Completed a new project with ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ➕ ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) and now working on perfecting it 🌟 
+- 🚀 Currently refining a project I made with ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ➕ ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 
 - 📬 Contact me on LinkedIn [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letizia-di-maio/) <br>
