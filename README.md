@@ -2,7 +2,7 @@
 as Cesare stated *"Veni vidi vici"* which translates in English to **"I came, I saw, I conquered"**
 - <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="20px" height="18px" alt="Italian flag" /> Proudly born and bred in Rome, Italy
 - 🍝 I love gnocchi
-- 🚀 Currently refining a project I made with ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ➕ ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+- ⚗️ Currently refining a project I made with ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ➕ ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 
 - 📬 Contact me on LinkedIn [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/letizia-di-maio/) <br>
