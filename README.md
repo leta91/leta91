@@ -2,7 +2,6 @@
 as Cesare stated *"Veni vidi vici"* which translates in English to **"I came, I saw, I conquered"**
 - <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="20px" height="18px" alt="Italian flag" /> Proudly born and bred in Rome, Italy
 - <img src="https://hatscripts.github.io/circle-flags/flags/it.svg" width="20px" height="18px" alt="Italian flag" /> <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1ea-1f1fa.svg" width="20px" height="18px" alt="European flag" /> Proudly Italian and European
-- 💜 PC Lover
 - 🍝 I love gnocchi
 - ⚗️ Currently refining a project I made with ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ➕ ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
@@ -22,8 +21,7 @@ as Cesare stated *"Veni vidi vici"* which translates in English to **"I came, I 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leta91&layout=pie)
-
+![Letizia DI MAIO's GitHub stats](https://github-readme-stats.vercel.app/api?username=leta91&show_icons=true&theme=neon)
       
 <!---
 leta91/leta91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
